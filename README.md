@@ -10,3 +10,6 @@ Aqua Reggia
 
 Dissolving Metals
 - video: [Dissolving Coins in Nitric Acid - Periodic Table of Videos](https://youtu.be/aRHKVpaA71w)
+
+## Nitrogen oxide
+wiki: https://en.wikipedia.org/wiki/Nitrogen_oxide
